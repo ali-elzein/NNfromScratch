@@ -1,6 +1,6 @@
 # Neural Networks from Scratch in Python
 
-This repository simply contains my code while going over the *Neural Networks from Scratch in Python* Youtube playlist
+This repository simply contains my code while going over the *Neural Networks from Scratch in Python* Youtube playlist.
 
 ## Acknowledgments
 
